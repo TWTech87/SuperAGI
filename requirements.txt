@@ -91,7 +91,7 @@ pyquery==2.0.0
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-dotenv==1.0.0
-python-multipart==0.0.6
+python-multipart==0.0.22
 pytz==2023.3
 PyYAML==6.0
 redis==4.5.5
